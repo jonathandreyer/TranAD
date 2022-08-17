@@ -1,3 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
 pandas
 tqdm
 matplotlib
@@ -6,3 +10,4 @@ numpy
 SciencePlots
 scikit-learn
 xlrd==1.2.0
+openpyxl
