@@ -14,6 +14,13 @@ This code needs Python-3.7 or higher.
 pip3 install -r requirements.txt
 ```
 
+*Creation a virtual environment:*
+```
+python3 -m venv --prompt TranAD .venv
+source activate-venv.sh
+pip install --upgrade pip
+```
+
 ## Dataset Preprocessing
 Preprocess all datasets using the command
 ```bash
